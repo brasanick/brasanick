@@ -21,8 +21,8 @@
   <tr>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brasanick&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: calm_pink )"
+    srcset="https://github-readme-stats.vercel.app/api?username=brasanick&show_icons=true&theme=calm_pink "
+    media="(prefers-color-scheme: dark )"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=brasanick&show_icons=true"
