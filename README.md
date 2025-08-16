@@ -1,10 +1,9 @@
-## Hi there 👋          Welcome to my profile!
+## Olá, me chamo Nicolas.
 
 - 🇧🇷
-- 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning Python, C, MySQL & JAVA.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for a job.
+- 🔭 Working on back-end.
+- 💾 Python, C, MySQL & JAVA.
+- 🤔 Looking for a job.
 
  ## 📫 How to reach me: 
   <div>
