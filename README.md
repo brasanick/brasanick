@@ -31,8 +31,7 @@
       <img
         align="left"
         height="170px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Nickyase&theme=midnight-purple&hide_border=false"
-        alt="Github Stats"
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
       />
     </td>
   </tr>
