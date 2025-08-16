@@ -19,7 +19,7 @@
 </div>
 <table> 
   <tr>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasanick&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasanick&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=brasanick&show_icons=true&theme=dark"
