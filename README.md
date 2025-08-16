@@ -1,10 +1,10 @@
 ## Hi there 👋          Welcome to my profile!
 
-- 📍🗺️ Living on Brazil.
+- 🇧🇷
 - 🔭 I’m currently working on back-end.
-- 🌱 I’m currently learning Python, MySQL & JAVA.
+- 🌱 I’m currently learning Python, C, MySQL & JAVA.
 - 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with search a job.
+- 🤔 I’m looking for a job.
 
  ## 📫 How to reach me: 
   <div>
