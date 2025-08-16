@@ -19,17 +19,10 @@
 </div>
 <table> 
   <tr>
-    <td>
-      <img
-        align="left"
-        height="170px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickyase&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasanick&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=brasanick&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
