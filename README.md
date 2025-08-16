@@ -12,7 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brasanicolas27@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nickke6772/)
 <br>
-[![GitHub](https://img.shields.io/github/followers/Nickyase?label=follow&style=social)](https://github.com/Nickyase)
 
 ## My GitHub Stats
 
