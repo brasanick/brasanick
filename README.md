@@ -1,4 +1,5 @@
 ## Olá, me chamo Nicolas.
+   Sou desenvolvedor e professor substituto em Desenvolvimento de Sistemas.
 
 - 🇧🇷
 - 🔭 Back-end 
